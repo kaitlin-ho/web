@@ -1,0 +1,24 @@
+h1 {
+    color: slategrey;
+} /* turns all heading type 1 to slategrey */
+
+h2 {
+    color: steelblue;
+    text-align: center;
+} /* turns heading2 to steelblue*/
+
+#name {
+    text-align: left;
+} /* puts my name on the left side */
+
+h3 {
+    color: dimgray;
+} /* turns heading3 to dimgray */
+
+p {
+    font-size: 110%;
+} /* puts the paragraph font size to 110% of the original */
+
+ul {
+    font-size: large;
+} /* puts the ul font size (in this case it's my table of content) as large */
